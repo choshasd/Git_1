@@ -15,8 +15,8 @@ public class Q1_129page {
 			if(total>1000)
 				break;
 		}
-		System.out.println("total = "+total);
-		System.out.println("a = "+a);
+		System.out.println("넘는지점 = "+total);
+		System.out.println("넘을때 홀수 = "+a);
 	}
 
 }
